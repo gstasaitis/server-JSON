@@ -1,0 +1,517 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "carName": "Peugeot 3008",
+      "carPicture": "https://donauto.lt/img/65e2e783eb06b9048689eef0a901407c.webp",
+      "price": "37",
+      "carType": "SUV",
+      "carYear": "2020",
+      "engineLiters": "1.9",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "1"
+    },
+    {
+      "id": "2",
+      "carName": "Jaguar XF",
+      "carPicture": "https://donauto.lt/img/d09e9490782534d7afdf7dffcb7c5ed9.webp",
+      "price": "75",
+      "carType": "Sports",
+      "carYear": "2022",
+      "engineLiters": "3",
+      "gasType": "Diesel",
+      "transmissionType": "Manual",
+      "seatCount": "5",
+      "productId": "2"
+    },
+    {
+      "id": "3",
+      "carName": "Audi A3",
+      "carPicture": "https://donauto.lt/img/c0d178f80c915a55ab63653e0c4c9050.png",
+      "price": "65",
+      "carType": "Basic",
+      "carYear": "2024",
+      "engineLiters": "1.5",
+      "gasType": "Electric",
+      "transmissionType": "Automatic",
+      "seatCount": "3",
+      "productId": "3"
+    },
+    {
+      "id": "975d",
+      "carName": "BMW 320i",
+      "carPicture": "https://donauto.lt/img/6264bacbfba97ce7a8cfe7b436bebd36.webp",
+      "price": "35",
+      "carType": "Sports",
+      "carYear": "2021",
+      "engineLiters": "2.0",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "4"
+    },
+    {
+      "id": "6270",
+      "carName": "Honda CRV",
+      "carPicture": "https://donauto.lt/img/16cc49baa908ee73e7f4cb001164d94b.webp",
+      "price": "55",
+      "carType": "SUV",
+      "carYear": "2020",
+      "engineLiters": "1.5",
+      "gasType": "Electric",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "5"
+    },
+    {
+      "id": "24cf",
+      "carName": "KIA Sportage",
+      "carPicture": "https://donauto.lt/img/388f032cb3d1665a56abdeb349bccb8c.webp",
+      "price": "55",
+      "carType": "SUV",
+      "carYear": "2020",
+      "engineLiters": "2.5",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "4",
+      "productId": "6"
+    },
+    {
+      "id": "ef45",
+      "carName": "VOLVO V60",
+      "carPicture": "https://donauto.lt/img/8ad0fa458bc5cf0a667f5df3683131ec.webp",
+      "price": "58",
+      "carType": "Basic",
+      "carYear": "2019",
+      "engineLiters": "2.3",
+      "gasType": "Diesel",
+      "transmissionType": "Manual",
+      "seatCount": "5",
+      "productId": "6"
+    },
+    {
+      "id": "5fcf",
+      "carName": "KIA Ceed",
+      "carPicture": "https://donauto.lt/img/b6ced14c84351e3c8e03405136c70cc9.webp",
+      "price": "35",
+      "carType": "Basic",
+      "carYear": "2015",
+      "engineLiters": "1.6",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "7"
+    },
+    {
+      "id": "abfe",
+      "carName": "BMW x5",
+      "carPicture": "https://www.sixt.com/fileadmin2/files/global/user_upload/fleet/png/630x360/bmw-x5-5d-weiss-2018.png",
+      "price": "78",
+      "carType": "SUV",
+      "carYear": "2023",
+      "engineLiters": "3.0",
+      "gasType": "Diesel",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "8"
+    },
+    {
+      "id": "cca8",
+      "carName": "BMW IX3",
+      "carPicture": "https://www.sixt.com/fileadmin2/files/global/user_upload/fleet/png/630x360/bmw-ix3-suv-blue-2021.png",
+      "price": "129",
+      "carType": "SUV",
+      "carYear": "2024",
+      "engineLiters": "1.8",
+      "gasType": "Electric",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "9"
+    },
+    {
+      "id": "6b8f",
+      "carName": "LEXUS ES 300H",
+      "carPicture": "https://www.sixt.com/fileadmin2/files/global/user_upload/fleet/png/630x360/lexus-es-4d-black-2020.png",
+      "price": "99",
+      "carType": "Sports",
+      "carYear": "2024",
+      "engineLiters": "3.5",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "10"
+    },
+    {
+      "id": "b3ef",
+      "carName": "Ford Mustang",
+      "carPicture": "https://www.luxrent.lt/wp-content/uploads/1587720251.png",
+      "price": "99",
+      "carType": "Sports",
+      "carYear": "2024",
+      "engineLiters": "3.5",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "5",
+      "productId": "11"
+    },
+    {
+      "id": "745f",
+      "carName": "Porsche Macan GTS",
+      "carPicture": "https://www.luxrent.lt/wp-content/uploads/1587720299.png",
+      "price": "119",
+      "carType": "Sports",
+      "carYear": "2023",
+      "engineLiters": "3.5",
+      "gasType": "Diesel",
+      "transmissionType": "Automatic",
+      "seatCount": "4",
+      "productId": "12"
+    },
+    {
+      "id": "02e3",
+      "carName": "Land Rover ",
+      "carPicture": "https://www.luxrent.lt/wp-content/uploads/pngwing.com-1.png",
+      "price": "119",
+      "carType": "Sports",
+      "carYear": "2023",
+      "engineLiters": "3.5",
+      "gasType": "Diesel",
+      "transmissionType": "Automatic",
+      "seatCount": "4",
+      "productId": "13"
+    },
+    {
+      "id": "11b1",
+      "carName": "VW GOLF",
+      "carPicture": "https://static.europcar.com/carvisuals/450x300/42446_GWY_R.png?app=1.0.0",
+      "price": "29",
+      "carType": "Basic",
+      "carYear": "2022",
+      "engineLiters": "1",
+      "gasType": "Petrol",
+      "transmissionType": "Automatic",
+      "seatCount": "4",
+      "productId": "14"
+    },
+    {
+      "id": "96ac",
+      "carName": "KIA Ceed",
+      "carPicture": "https://static.europcar.com/carvisuals/450x300/59604_GWY_R.png?app=1.0.0",
+      "price": "29",
+      "carType": "Basic",
+      "carYear": "2020",
+      "engineLiters": "1.2",
+      "gasType": "Diesel",
+      "transmissionType": "Manual",
+      "seatCount": "4",
+      "productId": "15"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "imgurl": "https://images.unsplash.com/photo-1541876788-2221e585da7f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFtb3VzJTIwcGVyc29ufGVufDB8MXwwfHx8MA%3D%3D",
+      "name": "john f kennedy",
+      "ocupation": "CEO",
+      "phone": "370 6123 1231"
+    },
+    {
+      "id": "2",
+      "imgurl": "https://images.unsplash.com/photo-1595139280770-95b6de5f0635?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW9kYXxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Yoda Skywalker",
+      "ocupation": "Customer support specialist",
+      "phone": "370 6666 1234"
+    },
+    {
+      "id": "3",
+      "imgurl": "https://images.unsplash.com/photo-1613687443654-26424a9d0603?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGd1YXJkaWFucyUyMG9mJTIwdGhlJTIwZ2FsYXh5fGVufDB8fDB8fHww",
+      "name": "groot groot",
+      "ocupation": "Groot",
+      "phone": "370 1234 5678"
+    },
+    {
+      "id": "53c0",
+      "name": "Paula smith",
+      "ocupation": "Team Manager",
+      "phone": "370 444 4444",
+      "imgurl": "https://images.unsplash.com/photo-1517805686688-47dd930554b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNlbGVicml0eXxlbnwwfDF8MHx8fDA%3D"
+    },
+    {
+      "id": "2d4c",
+      "name": "Bronius Bronauskas",
+      "ocupation": "Car Tester",
+      "phone": "370 123 45678",
+      "imgurl": "https://images.unsplash.com/photo-1611444524962-64e108effe95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJhY2VyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "3a79",
+      "name": "Vardenis Pavardenis",
+      "ocupation": "Lithuanian Customer Support",
+      "phone": "370 612 34567",
+      "imgurl": "https://images.unsplash.com/photo-1611898685362-861ca506fe07?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2VsZWJyaXR5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "4128",
+      "name": "Joshua biden",
+      "ocupation": "Team Entertainer",
+      "phone": "370 999 99999",
+      "imgurl": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2VyfGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cf5f",
+      "name": "Michael Kors",
+      "ocupation": "Web Designer",
+      "phone": "370 888 88888",
+      "imgurl": "https://images.unsplash.com/photo-1633256394607-caa776f871b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNlbGVicml0eXxlbnwwfDF8MHx8fDA%3D"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "author": "Alice Johnson",
+      "rating": 3,
+      "title": "Good, but expected better image quality",
+      "comment": "The TV is good overall, but I was expecting sharper image quality for the price.",
+      "productId": 1
+    },
+    {
+      "id": "2",
+      "author": "Mark Benson",
+      "rating": 4,
+      "title": "Great sound, comfortable wear",
+      "comment": "These headphones are great for long listening sessions. Sound is clear and noise cancellation works well.",
+      "productId": 2
+    },
+    {
+      "id": "4",
+      "author": "Tom Jackins 4",
+      "rating": 5,
+      "title": "Review title 4",
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": "5",
+      "author": "Tom Jackins 5",
+      "rating": 3,
+      "title": "Review title 5",
+      "comment": "Review 1 for product id 3",
+      "productId": 3
+    },
+    {
+      "title": "123d",
+      "comment": "123da",
+      "rating": 3,
+      "id": "271f"
+    },
+    {
+      "id": "400f",
+      "title": "sdasdas",
+      "author": "dasdasd",
+      "comment": "sadasdas",
+      "rating": 2,
+      "productId": "ce7c"
+    },
+    {
+      "id": "db11",
+      "title": "sdasdas",
+      "author": "dasdasd",
+      "comment": "sadasdas",
+      "rating": 2,
+      "productId": "ce7c"
+    },
+    {
+      "title": "toksas",
+      "comment": "komentars",
+      "rating": 5,
+      "id": "f915"
+    },
+    {
+      "id": "2c36",
+      "title": "Peugeot 3008",
+      "author": "Peter Robinson",
+      "comment": "Very pleasant drive",
+      "rating": 5,
+      "productId": "1"
+    },
+    {
+      "title": "Peugeot 3008d",
+      "comment": "Very pleasant drived",
+      "id": "f0ff"
+    },
+    {
+      "id": "0a30",
+      "title": "3008",
+      "author": "Name Surname",
+      "comment": "Was making rattling sounds...",
+      "rating": 1,
+      "productId": "1"
+    },
+    {
+      "title": "TEST",
+      "comment": "TeST",
+      "rating": 3,
+      "id": "5356"
+    },
+    {
+      "title": "TESTas",
+      "comment": "TeST",
+      "id": "6806"
+    },
+    {
+      "title": "AAAAAAAA",
+      "comment": "ASDAAAAA AAAAAAAAAAAAA",
+      "id": "6eb6"
+    },
+    {
+      "title": "BBcccca",
+      "comment": "Bccc",
+      "id": "ceaa"
+    },
+    {
+      "title": "Testass",
+      "comment": "testers",
+      "rating": 3,
+      "id": "ed1d"
+    },
+    {
+      "title": "dasda",
+      "comment": "sadadasd",
+      "id": "b0f2"
+    },
+    {
+      "title": "dasd",
+      "comment": "dasda",
+      "rating": 1,
+      "id": "a189"
+    },
+    {
+      "title": "dd",
+      "comment": "ds",
+      "rating": 1,
+      "id": "915e"
+    },
+    {
+      "id": "7d61",
+      "title": "Nice car!",
+      "author": "Tom Hanks",
+      "comment": "Enjoyed! 5/5",
+      "rating": 5,
+      "productId": "1"
+    },
+    {
+      "id": "7fd7",
+      "title": "Title",
+      "author": "Name",
+      "comment": "Comment",
+      "rating": 3,
+      "productId": "96ac"
+    },
+    {
+      "id": "cfb4",
+      "title": "Peugeot nice",
+      "author": "Vardenis Pavardenis",
+      "comment": "Very nice",
+      "rating": 5,
+      "productId": "1"
+    },
+    {
+      "id": "ee59",
+      "title": "OERT",
+      "author": "Op",
+      "comment": "FASKFnjkansfkas fasdsa fsaf ewqrf ewfsd dszc dsfqer qwad asdas fqwrd w sesd fsdfsdf efes fsdf sdf sdfds fdsf afasf adas fasg adsasdf asf as",
+      "rating": 3,
+      "productId": "1"
+    },
+    {
+      "id": "3c8a",
+      "title": "Comfortable Ride",
+      "author": "Alice Johnson",
+      "comment": "I had a comfortable and smooth ride with this car. Highly recommended!",
+      "rating": 4,
+      "productId": "1"
+    },
+    {
+      "id": "a2f1",
+      "title": "Amazing Features",
+      "author": "John Doe",
+      "comment": "The car has amazing features, and I enjoyed every moment of my drive.",
+      "rating": 5,
+      "productId": "1"
+    },
+    {
+      "id": "87d2",
+      "title": "Decent Fuel Efficiency",
+      "author": "Eva Smith",
+      "comment": "The fuel efficiency of this car is quite decent. It saved me a lot on my long journey.",
+      "rating": 4,
+      "productId": "1"
+    },
+    {
+      "id": "b15c",
+      "title": "Smooth Handling",
+      "author": "Michael Brown",
+      "comment": "The car has smooth handling, making it a joy to drive around the city.",
+      "rating": 4,
+      "productId": "1"
+    },
+    {
+      "id": "new1",
+      "title": "Excellent SUV",
+      "author": "CarEnthusiast123",
+      "comment": "The Peugeot 3008 is an excellent SUV. It offers a comfortable ride and great features.",
+      "rating": 5,
+      "productId": "1"
+    },
+    {
+      "id": "new2",
+      "title": "Jaguar XF Delivers Thrills",
+      "author": "Speedster21",
+      "comment": "The Jaguar XF delivers thrilling performance with its powerful engine. A true sports car experience!",
+      "rating": 5,
+      "productId": "2"
+    },
+    {
+      "id": "new3",
+      "title": "Impressive Electric Drive",
+      "author": "EcoDriver",
+      "comment": "The Audi A3's electric drive is impressive, and it's a step towards a greener future.",
+      "rating": 4,
+      "productId": "3"
+    },
+    {
+      "id": "new4",
+      "title": "BMW 320i - A Reliable Choice",
+      "author": "ReliabilityFan",
+      "comment": "The BMW 320i is a reliable choice with its smooth automatic transmission and efficient engine.",
+      "rating": 4,
+      "productId": "6270"
+    },
+    {
+      "id": "new5",
+      "title": "Honda CRV - Stylish and Efficient",
+      "author": "StyleSeeker",
+      "comment": "The Honda CRV is not only stylish but also fuel-efficient, making it a great choice for daily commuting.",
+      "rating": 5,
+      "productId": "6270"
+    },
+    {
+      "id": "new6",
+      "title": "KIA Sportage - Solid SUV",
+      "author": "AdventureTime",
+      "comment": "The KIA Sportage is a solid SUV with a powerful engine and spacious interior. Perfect for adventures!",
+      "rating": 4,
+      "productId": "6270"
+    },
+    {
+      "id": "c782",
+      "title": "Title",
+      "author": "Name Lastname",
+      "comment": "Excellent drive",
+      "rating": 5,
+      "productId": "6270"
+    }
+  ]
+}
