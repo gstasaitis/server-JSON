@@ -297,7 +297,7 @@
       "author": "Tom Jackins 5",
       "rating": 3,
       "title": "Review title 5",
-      "comment": "Review 1 for product id 3",
+      "comment": "Good car, enjoyed",
       "productId": 3
     },
     {
@@ -512,6 +512,70 @@
       "comment": "Excellent drive",
       "rating": 5,
       "productId": "6270"
+    },
+    {
+      "id": "b2b3",
+      "title": "BMW320i",
+      "author": "Peter",
+      "comment": "Too much power!",
+      "rating": 5,
+      "productId": "975d"
+    },
+    {
+      "id": "bcff",
+      "title": "Jaguar",
+      "author": "Jaguar",
+      "comment": "Jaguar",
+      "rating": 3,
+      "productId": "2"
+    },
+    {
+      "id": "86db",
+      "title": "123",
+      "author": "123",
+      "comment": "123",
+      "rating": 2,
+      "productId": "2"
+    },
+    {
+      "id": "3e71",
+      "title": "123",
+      "author": "123",
+      "comment": "1239dvva",
+      "rating": 1,
+      "productId": "2"
+    },
+    {
+      "id": "c1a6",
+      "title": "sadasdsadasd",
+      "author": "dasdasdsadsad",
+      "comment": "a sda sd as das wwdddd VW VAsddd  as",
+      "rating": 1,
+      "productId": "2"
+    },
+    {
+      "id": "87e3",
+      "title": "Drive",
+      "author": "Josh",
+      "comment": "Good price! Very satisfied!",
+      "rating": 5,
+      "productId": "975d"
+    },
+    {
+      "id": "feec",
+      "title": "asddad",
+      "author": "asdasd",
+      "comment": "Happy with the Edit",
+      "rating": 4,
+      "productId": "975d"
+    },
+    {
+      "id": "aab9",
+      "title": "BMW Drive",
+      "author": "Peter Smith",
+      "comment": "Its not an xDrive model. edit: but still 5 stars",
+      "rating": 5,
+      "productId": "975d"
     }
   ]
 }
